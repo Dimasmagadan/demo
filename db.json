@@ -1,18 +1,22 @@
 {
     "v1": [
         {
-            "product": "slo",
-            "rate_map_version": "slo-23",
-            "rates": [
+            "headline": [
                 {
-                    "rate_low": 2.99,
-                    "rate_high": 12.78,
-                    "rate_type": "fixed"
-                },
-                {
-                    "rate_low": 0.99,
-                    "rate_high": 11.44,
-                    "rate_type": "variable"
+                    "product": "slo",
+                    "rate_map_version": "slo-23",
+                    "rates": [
+                        {
+                            "rate_low": 2.99,
+                            "rate_high": 12.78,
+                            "rate_type": "fixed"
+                        },
+                        {
+                            "rate_low": 0.99,
+                            "rate_high": 11.44,
+                            "rate_type": "variable"
+                        }
+                    ]
                 }
             ]
         }
