@@ -4,16 +4,16 @@
             "headline": [
                 {
                     "product": "slo",
-                    "rate_map_version": "slo-23",
+                    "rate_map_version": "slo-100",
                     "rates": [
                         {
-                            "rate_low": 2.99,
-                            "rate_high": 12.78,
+                            "rate_low": 1.1,
+                            "rate_high": 100.2,
                             "rate_type": "fixed"
                         },
                         {
-                            "rate_low": 0.99,
-                            "rate_high": 11.44,
+                            "rate_low": 0.1,
+                            "rate_high": 200.55,
                             "rate_type": "variable"
                         }
                     ]
